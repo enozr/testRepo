@@ -1,8 +1,4 @@
 test add file to my feature
 test again
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 test feather_150320  stash2
