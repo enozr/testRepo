@@ -2,4 +2,3 @@ test add file to my feature
 test again
 test develop
 test develop stash 2
-
